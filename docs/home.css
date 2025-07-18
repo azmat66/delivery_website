@@ -152,7 +152,7 @@ body{
 #services .box:hover{
     background-color: rgb(236, 222, 222);
     cursor: pointer;
-    transform: scale(0.8);
+    /* transform: scale(0.8); */
     /* transition-property: background-color ;
     transition-duration: 2s;
     background-color: plum; */
